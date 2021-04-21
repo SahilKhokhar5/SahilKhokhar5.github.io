@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(4, 10, 36);
+    margin:auto;
+    color: blanchedalmond;
+    letter-spacing: 2px;
+}
+.name
+{
+    font-size: 30px;
+    margin-left: 15px;
+}
+.detail
+{
+    font-size: 20px;
+    margin-left: 15px;
+}

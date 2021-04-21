@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(4, 10, 36);
+}
+.card
+{
+   margin-top: 100px;
+   width: 200px;
+}
+.card-title{
+    color: rgb(253, 253, 253);
+}
+.card-text{
+    color: rgb(253, 253, 253);
+}
+

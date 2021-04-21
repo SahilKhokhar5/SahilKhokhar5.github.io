@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(4, 10, 36);
+}
+
+h4
+{
+    margin-top: 15px;
+    color: rgb(253, 253, 253);
+}
+#cname
+{
+    margin-top: 15px;
+    color: rgb(253, 253, 253);
+}
+#bname
+{
+    margin-top: -15px;
+    color: rgb(253, 253, 253);
+}
